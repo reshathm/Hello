@@ -1,6 +1,6 @@
 # ⚡ Hello World, I'm Reshath (Angelis) 👋
 
-![Cyber Security](https://shields.io) ![C++](https://shields.io) ![WSL Ubuntu](https://shields.io)
+![Cyber Security](https://shields.io_🛡️-red?style=for-the-badge) ![C++](https://shields.io_🛡️-blue?style=for-the-badge) ![WSL Ubuntu](https://shields.io_🛡️-orange?style=for-the-badge)
 
 
 ---
