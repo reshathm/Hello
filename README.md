@@ -4,6 +4,14 @@ Building defensible systems architecture, writing optimized C++ engines, and dep
 
 ---
 
+### 🎯 Operational Focus (What I'm Doing)
+
+*   📈 **Asymptotic Performance Sprints:** Stress-testing C++ memory layouts and loop mechanisms by systematically encoding and profiling the top 75 structural programming patterns.
+*   🧪 **Hypervisor Infrastructure Staging:** Provisioning isolated virtual networks inside my KVM/QEMU environment to map kernel dependencies and securely deploy automated Bash utilities.
+*   📊 **Telemetry Integration:** Customizing local log forwarders to parse machine-generated data across my Ubuntu and Kali subsystems, preparing the ingestion paths for a centralized SIEM pipeline.
+
+---
+
 ### 💼 Commercial & Technical Initiatives
 
 * **🚀 Freelance & Venture Operations:** Building and deploying custom automation scripts and tech solutions for freelance clients to bridge the gap between academic theory and commercial software engineering.
