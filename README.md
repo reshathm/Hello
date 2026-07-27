@@ -1,30 +1,41 @@
-# Hello World, I'm Reshath (Angelis) 👋
+# ⚡ Hello World, I'm Reshath (Angelis) 👋
 
-<p align="center">
-  <img src="https://shields.io" alt="Cyber Security">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="WSL Ubuntu">
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Cyber Security">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="C++ Programming">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="WSL Ubuntu">
+  </a>
 </p>
 
 ---
 
-### 🛡️ Professional Overview
-- 🎓 **Academic Standing**: 3rd-Year Computer Science / IT Student focusing on low-level systems, data structures, and infrastructure protection.
-- 🎯 **Technical Track**: Aspiring Security Engineer and Systems Programmer. Driven by a deep interest in memory safety, automated secure scripting, and defensive engineering.
-- 💻 **Active Initiative**: Cultivating deep problem-solving skills by mastering complex pattern identification in **C++ Data Structures & Algorithms (DSA)** for advanced engineering roles.
+### 🛡️ Professional Profile & Focus
+> **Academic Path:** 3rd-Year Computer Science & IT Student specializing in defensive systems infrastructure and low-level secure development.
+
+*   🎯 **Technical Track:** Aspiring Systems Engineer and Security Analyst. Deeply passionate about memory protection mechanisms, automated threat monitoring scripting, and security sandbox environments.
+*   💻 **Active Initiative:** Engineering high-performance algorithmic logic pipelines by systematically mastering **C++ Data Structures & Algorithms (DSA)** patterns for advanced interview rounds.
 
 ---
 
-### ⚙️ Core Technical Toolkit & Sandbox Environment
-*   **Languages & Scripting**: `C++` (Object-Oriented Logic), `Bash / Linux Shell`
-*   **Systems Architecture**: Windows Subsystem for Linux (WSL Core - Ubuntu LTS Environment)
-*   **DevOps & AI Automation**: Architected a custom, cost-optimized local AI developer pipeline using **Cline** and OpenRouter community APIs to streamline algorithmic workflows.
-*   **Low-Level Competencies**: Memory allocation, pointer mechanics, execution optimization tracking.
+### ⚙️ Core Technical Toolkit & Sandbox Matrix
+
+| Category | Specialized Technologies |
+| :--- | :--- |
+| **Languages & Scripting** | `C++ (OOP Logic)` • `Bash / Linux Shell Scripting` |
+| **Systems & Infrastructure** | Windows Subsystem for Linux (`WSL Core`) • `Ubuntu LTS Engine` |
+| **Automation & DevOps** | Custom sandboxed local AI developer asset pipeline (`Cline` + OpenRouter framework) |
+| **Low-Level Mechanics** | Explicit pointer operations • Memory mapping tracking • Logic complexity runtime auditing |
 
 ---
 
-### 📈 Technical Roadmap & Core Performance Milestones
-- [x] Configured an isolated, high-performance Linux engineering sandbox inside WSL
-- [ ] Implement and mathematically evaluate baseline C++ matrix and pattern generation loops
-- [ ] Master Time/Space Complexity constraints (Big-O Notation calculation rules)
-- [ ] Systematically solve and document the Top 75 LeetCode Technical Interview Patterns
+### 📈 Operational Roadmap & Milestones
+
+- [x] 🚀 **Sandbox Engineering:** Configured a secure, high-performance isolated Linux environment inside WSL
+- [ ] 🔄 **Matrix Traversal:** Implement and audit time-complexity on foundational C++ structural array loops
+- [ ] 📊 **Mathematical Analysis:** Master asymptotic boundaries ($O(N)$ Big-O Notation tracking metrics)
+- [ ] ⚔️ **Pattern Graduation:** Systematically solve and catalog the Top 75 LeetCode Interview Patterns
