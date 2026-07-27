@@ -1,16 +1,7 @@
 # ⚡ Hello World, I'm Reshath (Angelis) 👋
 
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Cyber Security">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="C++ Programming">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="WSL Ubuntu">
-  </a>
-</p>
+![Cyber Security](https://shields.io) ![C++](https://shields.io) ![WSL Ubuntu](https://shields.io)
+
 
 ---
 
