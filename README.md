@@ -1,31 +1,36 @@
-# ⚡ Reshath (Angelis) | Systems Developer & Security Infrastructure Builder
+# ⚡ Reshath (Angelis) | Systems & Security Infrastructure Builder
 
-Building defensible systems architecture, writing optimized C++ engines, and deploying end-to-end security monitoring pipelines. I focus on practical engineering, virtualization, and building technical assets that deliver real-world value.
-
----
-
-### 🎯 Operational Focus (What I'm Doing)
-
-*   📈 **Asymptotic Performance Sprints:** Stress-testing C++ memory layouts and loop mechanisms by systematically encoding and profiling the top 75 structural programming patterns.
-*   🧪 **Hypervisor Infrastructure Staging:** Provisioning isolated virtual networks inside my KVM/QEMU environment to map kernel dependencies and securely deploy automated Bash utilities.
-*   📊 **Telemetry Integration:** Customizing local log forwarders to parse machine-generated data across my Ubuntu and Kali subsystems, preparing the ingestion paths for a centralized SIEM pipeline.
+A 3rd-year Computer Science & IT student focused on the intersection of low-level C++ systems engineering and practical cyber security infrastructure. I bypass generic theory to build, test, and break defensive tech stacks in a dedicated local sandbox.
 
 ---
 
-### 💼 Commercial & Technical Initiatives
+### 🎯 Active 30-Day Engineering Sprint (What I'm Doing)
 
-* **🚀 Freelance & Venture Operations:** Building and deploying custom automation scripts and tech solutions for freelance clients to bridge the gap between academic theory and commercial software engineering.
-* **🔬 Advanced SIEM & Hypervisor Lab:** Engineering an isolated virtualization infrastructure using **KVM/QEMU** to deploy **Kali Linux** attack matrices against vulnerable **Metasploitable** target nodes.
-* **📊 Threat Detection Analytics:** Building live security telemetry pipelines by routing system, binary, and network logs into a centralized **Splunk** ecosystem for automated log ingestion, alerting, and behavioral auditing.
-* **💻 Low-Level Logic Hardening:** Writing optimized, deterministic C++ code with an emphasis on strict resource management, pointer safety, and a deep-dive execution of the 75 foundational logic patterns.
-* **🤖 Production Automation:** Architecting local, high-leverage developer engines using the `Cline` + OpenRouter framework to fast-track script generation, logic auditing, and project turnaround times.
+*   🧪 **Environment Provisioning:** Actively deploying a core virtualization architecture using **KVM/QEMU** to host localized, isolated testing networks.
+*   📊 **SIEM Telemetry Setup:** Configuring local log pipelines to begin routing system, terminal, and binary events directly into a centralized **Splunk** engine.
+*   📈 **Logic Hardening:** Committing to an intense logic-building track to master and optimize the top 75 structural programming patterns in **C++**.
+*   🚀 **Attack Simulation:** Initializing an offensive testing layer via **Kali Linux** to execute controlled security validations against vulnerable **Metasploitable** target nodes.
 
 ---
 
-### 🧰 The Stack
+### 💼 Technical Objectives & Freelance Targets
+
+*   🤖 **Workflow Automation:** Leveraging local developer automation frameworks (`Cline` + OpenRouter) to fast-track script auditing and speed up project turnaround times.
+*   ⚙️ **Defensible Development:** Writing optimized, memory-safe C++ logic with a strict emphasis on pointer tracking and runtime complexity auditing.
+*   💼 **Commercial Bridge:** Using this hands-on, end-to-end sandbox deployment to bridge academic concepts into marketable freelance and system administration assets.
+
+---
+
+### 🧰 The Target Stack
 
 **Languages & Scripts:** C++ (OOP Core) • Linux Shell (Bash Automation)
 **Virtualization & OS:** KVM / QEMU • WSL2 Subsystem Integration • Ubuntu LTS Environment • Kali Linux • Unix CLI Utilities
 **Data Analytics & SIEM:** Splunk Ingestion Engine • Search Processing Language (SPL) • Log Telemetry Routing
 **AI & Architecture:** Cline Engine • OpenRouter API Routing • Prompt-Layer Optimization
 **System Diagnostics:** Memory Mapping Tracking • Asymptotic Analysis • Logic Complexity Auditing • Vulnerability Validation (Metasploitable 2)
+
+---
+
+### 📬 Reach Me
+
+Open a technical issue on any active repository for project collaborations, or connect directly via the verified links on my GitHub profile.
